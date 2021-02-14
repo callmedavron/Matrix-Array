@@ -57,4 +57,6 @@ console.log(iterate(myArray));
 13, 20, 27, 34, 41, 40, 39, 38, 37, 30, 
 23, 16, 17, 18, 19, 26, 33, 32, 31, 24, 25
 
+```
+
 ![alt text](https://i.stack.imgur.com/Hajfm.png)
