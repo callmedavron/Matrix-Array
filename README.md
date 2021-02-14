@@ -1,3 +1,6 @@
+
+![alt text](https://i.stack.imgur.com/Hajfm.png)
+
 ```javascript
 let myArray = [
   [1, 2, 3, 4, 5, 6, 7],
@@ -59,5 +62,3 @@ console.log(iterate(myArray));
 // 23, 16, 17, 18, 19, 26, 33, 32, 31, 24, 25
 
 ```
-
-![alt text](https://i.stack.imgur.com/Hajfm.png)
